@@ -1,3 +1,4 @@
-ill paste all the knowledge i learn from c++
+ill paste all the code i learnt from c++
 
 simple stuff:)
+SimpleCalculator.cpp is the first code i made and took me 18mins since i just started learning c++:)
